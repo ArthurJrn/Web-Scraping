@@ -88,7 +88,7 @@ def ParsePage(url):
 if __name__ == '__main__':
     #website = "https://www.sarenza.com/store/product/gender/list/view?gender=1&index=0&count=700"
     #ParsePage(website)
-    debut = 18684
+    debut = 0
     for i in range(30):
         website = "https://www.sarenza.com/store/product/gender/list/view?gender=1&index=" + str(700*i + debut) + "&count=700"
         ParsePage(website)
