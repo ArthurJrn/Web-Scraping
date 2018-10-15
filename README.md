@@ -1,6 +1,6 @@
 # Web-Scraping
 
-This folder contains several Jupyter Notebook explaining how to scrap various website.
+This folder contains several Jupyter Notebook explaining how to scrap various websites.
 
 # Fashion web-scraping
 
